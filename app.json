@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "sdkVersion": "23.0.0",
+    "name": "Airline",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./www/images/logo.png",
+    "androidStatusBar": {
+    	"barStyle": "light-content",
+    	"backgroundColor": "#370a6b",
+    },
+   	"android": {
+   		"package": "com.reactnative.airline"
+   	},
+    "ios": {
+      "bundleIdentifier": "com.reactnative.airline"
+    },
+   	"splash": {
+   		"image": "./www/images/background.png",
+      "resizeMode": "cover"
+   	},
+    "facebookAppId": "", // your facebook APP_ID
+    "facebookDisplayName": "", // your Facebook APP_NAME
+    "facebookScheme": "", // facebook APP_SCHEME
+  }
+}
