@@ -7,8 +7,8 @@ This is the React Native application developed using Expo which provided user ac
 2. Add your `Facebook Id` under `www/res/Keys.js`
 
 ## Screenshots
-<img src="Screenshot_2018-01-11-22-42-20.png" alt="Screenshot" width="350" />
-<img src="Screenshot_2018-01-11-22-42-33.png" alt="Screenshot" width="350" /> 
+<img src="screenshots/Screenshot_2018-01-11-22-42-20.png" alt="Screenshot" width="350" />
+<img src="screenshots/Screenshot_2018-01-11-22-42-33.png" alt="Screenshot" width="350" /> 
 
 # License
 
